@@ -1,2 +1,2 @@
 # proyectoEtraining
-Desarrollo de Tienda
+Desarrollo de Tienda Ecommerce sobre
