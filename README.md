@@ -1,2 +1,2 @@
 # proyectoEtraining
-Desarrollo de Tienda Ecommerce sobre
+Desarrollo de Tienda Ecommerce sobre productos artesanales
